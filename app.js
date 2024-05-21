@@ -81,12 +81,7 @@ let track_list = [
     image: "https://i.ytimg.com/vi/-7n_krPLRgs/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./ktb/mw.mp3"
   },   
-     {
-    name: "Don - Bae Song",
-    artist: "Sivakarthikeyan, Priyanka Mohan | Anirudh Ravichander",
-    image: "https://i.ytimg.com/vi/-7n_krPLRgs/0.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./ktb/m7.mp3"
-  },   
+      
 ];
 
 /*
